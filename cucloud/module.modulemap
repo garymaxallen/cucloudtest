@@ -1,0 +1,4 @@
+module cucloud [system] {
+  header "myucloud.h"
+  export *
+}
